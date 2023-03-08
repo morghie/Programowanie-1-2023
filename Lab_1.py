@@ -77,13 +77,13 @@
 
 # 3. Popraw zmienną zdanie tak aby wyświetlany był napis: "Ala ma kota"
 
-zdanie = 'Ala ma kota'
-print(zdanie)
+# zdanie = 'Ala ma kota'
+# print(zdanie)
 
 
-# 4. Wyświetl zdanie "Jestem a b mam c lat studiuję d",
+# # 4. Wyświetl zdanie "Jestem a b mam c lat studiuję d",
 
-a = str
+# a = str
 #  gdzie : a-imie, a-nazwisko, c-liczba, d-kierunek studiów są dowolne zmienne które podaje użytkownik (wczytywane z klawiatury)
 # 5. Sprawdź czy 1+2+10+20000001+4+347586970885 jest równa 321784560456434534646
 # 6. Sprawdź czy suma dowolnych dwóch liczb podanych przez użytkownika jest liczbą parzystą czy nieparzystą wyświetl właściwy komunikat
