@@ -192,14 +192,14 @@
 ######################Zadanie 4
 ## Wyświetl nazwy kluczy swojego słownika, oraz ilość elementów
 
-persdata = {
-  'imie':['Adam','Kasia','Chris'],
-  'nazwisko':['Kosz','But','Rękas'],
-  'wiek':[18, 19, 20]
-}
-print(persdata.keys())
-l = len(persdata.keys()) # liczy długość, ilość elementów
-print(len(persdata))
+# persdata = {
+#   'imie':['Adam','Kasia','Chris'],
+#   'nazwisko':['Kosz','But','Rękas'],
+#   'wiek':[18, 19, 20]
+# }
+# print(persdata.keys())
+# l = len(persdata.keys()) # liczy długość, ilość elementów
+# print(len(persdata))
 ######################Zadanie 5
 ## Zamień wszystkie nazwy imion w kluczu imie w swoim słowniku na inne.
 
